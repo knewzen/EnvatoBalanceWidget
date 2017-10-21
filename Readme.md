@@ -3,6 +3,10 @@ Envato Balance Widget
 
 This is an **unofficial** Mac OS Dashboard Widget for Envato authors. Puts a really basic, live account balance displayer to your dashboard.
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/5KCimCR5REc2MUG8dZ67RTNT/erayalakese/EnvatoBalanceWidget'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/5KCimCR5REc2MUG8dZ67RTNT/erayalakese/EnvatoBalanceWidget.svg' />
+</a>
+
 Screenshot
 ----------
 
